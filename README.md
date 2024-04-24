@@ -1,16 +1,42 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Arafatsorkar12.Arafatsorkar12" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arafat+Sorkar;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Bangladesh</h3>
+
+<br/>
+
+<div align="start">
+I'm a web developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
+<br/>
+<br/>
+I love using my skills to bring creative ideas to life. I love coding and I'm always eager to learn more about new technologies and trends in the web development world.
+I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand. Thanks for reading !
+</div>
+
+<br/>
+<br/>
  
-**Arafatsorkar12/Arafatsorkar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+<a href="mailto:arafatsorkar12345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://www.facebook.com/arafatsorkar12345">
+    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/monishroy010" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+<a href="https://monishroy.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ <hr/>
  
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,mysql,vscode,php,github,git,laravel" />
+</div>
